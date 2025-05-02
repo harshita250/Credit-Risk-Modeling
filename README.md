@@ -1,4 +1,4 @@
-# Credit Risk Prediction Model - README
+# Credit Risk Modeling & Customer Segmentation
 
 ## Project Overview
 This project focuses on building a credit risk prediction model to identify default-prone customers using advanced machine learning and dimensionality reduction techniques. The approach integrates Non-Negative Matrix Factorization (NMF), K-Means clustering, and optimization methods to enhance model interpretability and accuracy.
